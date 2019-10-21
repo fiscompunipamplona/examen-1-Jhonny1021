@@ -1,0 +1,1 @@
+En este trabajo encontramos la solución del movimento de dos pendulos conectados por un resorte, la simulacion de este movimiento y la grafica de la energia con respecto al tiempo para ello hicimos uso del metodo odein.
